@@ -15,7 +15,7 @@ class CliWrapperForAppinspectApi < Formula
     # Remove unrecognized options if warned by configure
     # https://rubydoc.brew.sh/Formula.html#std_configure_args-instance_method
     #system "./configure", *std_configure_args, "--disable-silent-rules"
-    bin.install "target/release/appinspect"
+    bin.install "appinspect"
     # system "cmake", "-S", ".", "-B", "build", *std_cmake_args
   end
 
