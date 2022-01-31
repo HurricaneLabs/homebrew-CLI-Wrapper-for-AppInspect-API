@@ -3,7 +3,7 @@
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class CliWrapperForAppinspectApi < Formula
   desc "CLI wrapper for AppInspect API"
-  homepage ""
+  homepage "https://github.com/HurricaneLabs/CLI-Wrapper-for-AppInspect-API"
   url "https://github.com/HurricaneLabs/CLI-Wrapper-for-AppInspect-API/releases/download/v0.1.7/macos-appinspect.tar.gz"
   sha256 "a7d533684628415145663bc4144594902a8b52004a22018919a9e0ab53e659e3"
   license "MIT"
