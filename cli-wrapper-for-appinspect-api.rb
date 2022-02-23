@@ -1,6 +1,3 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://rubydoc.brew.sh/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class CliWrapperForAppinspectApi < Formula
   desc "CLI wrapper for AppInspect API"
   homepage "https://github.com/HurricaneLabs/CLI-Wrapper-for-AppInspect-API"
